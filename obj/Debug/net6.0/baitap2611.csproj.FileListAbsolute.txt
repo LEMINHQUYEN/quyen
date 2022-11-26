@@ -1,0 +1,15 @@
+D:\oop_csharp\baitap2611\bin\Debug\net6.0\baitap2611.exe
+D:\oop_csharp\baitap2611\bin\Debug\net6.0\baitap2611.deps.json
+D:\oop_csharp\baitap2611\bin\Debug\net6.0\baitap2611.runtimeconfig.json
+D:\oop_csharp\baitap2611\bin\Debug\net6.0\baitap2611.dll
+D:\oop_csharp\baitap2611\bin\Debug\net6.0\baitap2611.pdb
+D:\oop_csharp\baitap2611\obj\Debug\net6.0\baitap2611.csproj.AssemblyReference.cache
+D:\oop_csharp\baitap2611\obj\Debug\net6.0\baitap2611.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop_csharp\baitap2611\obj\Debug\net6.0\baitap2611.AssemblyInfoInputs.cache
+D:\oop_csharp\baitap2611\obj\Debug\net6.0\baitap2611.AssemblyInfo.cs
+D:\oop_csharp\baitap2611\obj\Debug\net6.0\baitap2611.csproj.CoreCompileInputs.cache
+D:\oop_csharp\baitap2611\obj\Debug\net6.0\baitap2611.dll
+D:\oop_csharp\baitap2611\obj\Debug\net6.0\refint\baitap2611.dll
+D:\oop_csharp\baitap2611\obj\Debug\net6.0\baitap2611.pdb
+D:\oop_csharp\baitap2611\obj\Debug\net6.0\baitap2611.genruntimeconfig.cache
+D:\oop_csharp\baitap2611\obj\Debug\net6.0\ref\baitap2611.dll
